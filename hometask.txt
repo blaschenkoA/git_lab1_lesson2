@@ -26,3 +26,15 @@ demo:
     = = =
     = = =
    === ===
+
+финал
+сравнение
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/…
+Merge remote-tracking branch 'origin/…
+fix readme
+dots
+README added
+boots
+heat added
+init
